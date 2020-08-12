@@ -1,0 +1,12 @@
+[package]
+name = "base_unicode"
+description = "Unicode based binary encoding."
+version = "0.0.1"
+authors = ["Olga Gaponenko <ogaponenko3@gmail.com>"]
+edition = "2018"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/alvskar/base-unicode"
+homepage = "https://github.com/alvskar/base-unicode"
+readme = "README.md"
+
+[dependencies]
